@@ -1,1 +1,5 @@
-#Guia de como bater na mesa com kubernetes!
+#Iniciação Cientifica DEV-OPS 
+
+Faculdade Senai Fatesg
+
+Alunos: Renato Gomes, Jorge Gabriel
